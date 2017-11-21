@@ -6,7 +6,7 @@ This repo contains JS exercises related to async nature of JS
  2. PARALLEL GET  NAME, DOB, PHONE
  3. LOGOUT
 
-
+```
 API LIST:
 =========
 // LOGIN API -  http://localhost:3008/login  --> u get TOKEN from this API
@@ -14,3 +14,5 @@ API LIST:
 // DOB API - http://localhost:3008/dob?token="TOKEN FROM LOGIN"
 // PHONE API - http://localhost:3008/phone?token="TOKEN FROM LOGIN"
 // LOGOUT API - http://localhost:3008/logout?token="TOKEN FROM LOGIN"
+
+```
