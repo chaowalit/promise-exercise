@@ -3,7 +3,8 @@ const requestPromise = require('request-promise');
 const doOperation = () => {
  // 1. LOGIN
  // 2. PARALLEL GET  NAME, DOB, PHONE
- // 3. LOGOUT
+ // 3. CONSOLE LOG `NAME:${name} dob:${dob} phone:${phone}`
+ // 4. LOGOUT
 
  // HANDLE ERROR CASES
 }

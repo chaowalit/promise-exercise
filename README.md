@@ -4,6 +4,7 @@ This repo contains JS exercises related to async nature of JS
 ### ASSIGNMENT:  LOGIN AND GET ALL DATA AND LOGOUT
  1. LOGIN
  2. PARALLEL GET  NAME, DOB, PHONE
+ 3. CONSOLE LOG `NAME:${name} dob:${dob} phone:${phone}`
  3. LOGOUT
 
 ```
